@@ -1,0 +1,7 @@
+{
+  "vmx": "C:/path/to/your-vm/Ubuntu 64-bit.vmx",
+  "vmrun": "C:/Program Files (x86)/VMware/VMware Workstation/vmrun.exe",
+  "guest_user": "your-guest-username",
+  "guest_pass": "your-guest-password",
+  "guest_dir": "/tmp/tti"
+}

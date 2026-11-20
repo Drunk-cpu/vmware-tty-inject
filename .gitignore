@@ -1,0 +1,12 @@
+# real credentials live here, never commit this file
+config.local.json
+
+# run output
+out/
+shots/
+*.png
+*.log
+
+# python
+__pycache__/
+*.pyc

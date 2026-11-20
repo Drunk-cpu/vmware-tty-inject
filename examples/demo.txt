@@ -1,0 +1,7 @@
+# demo sequence: run with scripts/vmrun_seq.ps1 -Seq examples\demo.txt
+date
+#SHOT
+uname -a
+ls -la /opt
+#SHOT
+echo "tty injection works"
